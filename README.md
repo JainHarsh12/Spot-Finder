@@ -1,6 +1,9 @@
 Spot Finder
 Spot Finder is an AI-powered parking space detection system designed to simplify and automate the process of finding available parking spots in real-time. Utilizing computer vision and machine learning, Spot Finder accurately identifies open parking spaces, providing users with a seamless parking experience.
 
+![image](https://github.com/user-attachments/assets/89bde7a5-026c-48fe-84fe-85bbf10a6fb7)
+
+
 Key Features:
 Real-Time Detection: Spot Finder uses computer vision algorithms to analyze live video feeds from parking lots, detecting available parking spots instantly.
 
